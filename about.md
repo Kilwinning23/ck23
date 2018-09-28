@@ -7,7 +7,7 @@ sub_heading: ''
 layout: landing-page
 textline: We have a new home!
 publish_date: 2017-12-01 04:00:00 +0000
-show_staff: true
+show_staff: false
 menu:
   footer:
     identifier: _about
