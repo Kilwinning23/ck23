@@ -9,10 +9,7 @@ partners:
 - "/uploads/2017/11/13/nysed.png"
 services: []
 sub_heading: A Scottish Lodge originating in Lyttelton, Christchurch
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+textline: A group of good men learning to be great men!
 hero_button:
   text: Learn more
   href: "/about"
